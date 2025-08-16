@@ -75,7 +75,21 @@ const projectsData = [
   ],
   githubUrl: "https://github.com/TejaswiRokkam/immersive-career-view",
   category: "Personal Project"
+},
+{
+  "title": "AI Calendar Assistant",
+  "description": "An AI-powered workflow to automate calendar management. Built using n8n and OpenAI GPT, it lets you schedule events by simply sending a chat message. The assistant checks availability and creates events dynamically, streamlining daily scheduling tasks.",
+  "technologies": ["n8n", "OpenAI GPT", "Google Calendar", "Workflow Automation"],
+  "features": [
+    "Add events to calendar via chat commands",
+    "Automatic availability checking for participants",
+    "Dynamic start and end time scheduling",
+    "Real-time testing and workflow troubleshooting"
+  ],
+  "githubUrl": "https://github.com/TejaswiRokkam/AI-Calender-Assistant",
+  "category": "Personal Project"
 }
+
 ];
 
 export default function Projects() {
