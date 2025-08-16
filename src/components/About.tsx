@@ -16,9 +16,9 @@ const aboutData = {
     { label: "Hours Spent Practicing", value: "1000+" }
   ],
   skills: [
-    "Python", "Java", "C", "SQL", "HTML", "CSS", "JavaScript",
-    "React", "Streamlit", "Flask", "TensorFlow", "Keras", "scikit-learn",
-    "Git", "VS Code", "Postman", "Whisper AI", "Cohere API"
+    "Python", "Java", "C", "SQL", "HTML", "CSS", 
+    "Streamlit", "Flask", "TensorFlow", "Keras", "scikit-learn",
+    "Git", "VS Code", "Postman", "Whisper AI", "Cohere API", "n8n"
   ],
   values: [
     {
