@@ -63,18 +63,21 @@ const projectsData = [
     githubUrl: "https://github.com/TejaswiRokkam/Student-Management-System-using-tkinter-and-sqlite",
     category: "Desktop App"
   },
-  {
-  title: "3D Interactive Portfolio Website",
-  description: "A dynamic, responsive portfolio website featuring 3D animations, immersive UI, and project showcases. Built using Lovable and customized extensively to reflect my personal brand and technical profile.",
-  technologies: ["React", "Tailwind CSS", "Three.js", "Framer Motion", "Lucide", "Vite"],
+{
+  title: "TalentScout - Hiring Assistant Chatbot",
+  description:
+    "Recruitment chatbot that automates candidate screening, data collection, and personalized technical Q&A, simulating a realistic first-round interview experience.",
+  technologies: ["Python", "Streamlit", "Groq LLM API"],
   features: [
-    "Responsive 3D layout",
-    "Project and education showcase",
-    "Interactive animations",
-    "Resume download and social links"
+    "Automated candidate screening",
+    "Multi-step conversational flow",
+    "Fallback handling for smooth interaction",
+    "Personalized technical Q&A",
+    "First-round interview simulation"
   ],
-  githubUrl: "https://github.com/TejaswiRokkam/immersive-career-view",
-  category: "Personal Project"
+  githubUrl: "https://github.com/TejaswiRokkam/TalentScout",
+  liveUrl: "https://talentscout-hlzk7hd9hbeysm5pzyav4l.streamlit.app/",
+  category: "AI Chatbot"
 },
 {
   "title": "AI Calendar Assistant",
