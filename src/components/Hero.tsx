@@ -95,7 +95,7 @@ export default function Hero() {
               size="lg"
               className="border-accent text-accent hover:bg-accent hover:text-accent-foreground transition-all duration-300 px-8 py-6 text-lg rounded-xl backdrop-blur-sm"
             >
-              <a href="/TejaswiRokkam_Resume.pdf" download>
+              <a href="/TejaswiRokkam_Resume.pdf" download="TejaswiRokkam_Resume.pdf">
                 Download CV
                 <Download className="ml-2 h-5 w-5" />
               </a>
