@@ -7,7 +7,7 @@ import ThreeScene from './ThreeScene';
 const heroData = {
   name: "Rokkam Tejaswi",
   title: "Software Developer | AI/ML Engineer",
-  description: "I'm a final-year B.Tech student in Artificial Intelligence and Data Science at Shri Vishnu Engineering College for Women (2022–2026). I build intelligent, real-world solutions using AI and full stack technologies, with a passion for continuous learning and impactful software development.",
+  description: "I build intelligent, real-world solutions using AI and full stack technologies, with a passion for continuous learning and impactful software development.",
   email: "rokkamtejaswi10@gmail.com",
   github: "https://github.com/tejaswiRokkam",
   linkedin: "https://linkedin.com/in/tejaswi-rokkam-55b089259"
