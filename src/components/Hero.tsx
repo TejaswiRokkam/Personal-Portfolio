@@ -91,6 +91,7 @@ export default function Hero() {
             </Button>
             
             <Button 
+              asChild
               variant="outline" 
               size="lg"
               className="border-accent text-accent hover:bg-accent hover:text-accent-foreground transition-all duration-300 px-8 py-6 text-lg rounded-xl backdrop-blur-sm"
