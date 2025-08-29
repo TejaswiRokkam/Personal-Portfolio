@@ -90,13 +90,12 @@ export default function Hero() {
               <ArrowDown className="ml-2 h-5 w-5" />
             </Button>
             
-            <Button 
-              asChild
+            <Button
               variant="outline" 
               size="lg"
               className="border-accent text-accent hover:bg-accent hover:text-accent-foreground transition-all duration-300 px-8 py-6 text-lg rounded-xl backdrop-blur-sm"
             >
-              <a href="/Tejaswi_Rokkam_resume__Copy_ (2).pdf" download>
+              <a href="/TejaswiRokkam_Resume.pdf" download>
                 Download CV
                 <Download className="ml-2 h-5 w-5" />
               </a>
