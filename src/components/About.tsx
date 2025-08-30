@@ -11,14 +11,14 @@ const aboutData = {
   ],
   stats: [
     { label: "Years of Learning", value: "3+" },
-    { label: "Certifications Completed", value: "4+" },
-    { label: "Academic Projects", value: "2+" },
+    { label: "Certifications Completed", value: "10+" },
+    { label: "Academic Projects", value: "5+" },
     { label: "Hours Spent Practicing", value: "1000+" }
   ],
   skills: [
     "Python", "Java", "C", "SQL", "HTML", "CSS", 
     "Streamlit", "Flask", "TensorFlow", "Keras", "scikit-learn",
-    "Git", "VS Code", "Postman", "Whisper AI", "Cohere API", "n8n"
+    "Git", "VS Code", "Postman", "Whisper AI", "Cohere API", "n8n","OpenAI"
   ],
   values: [
     {
