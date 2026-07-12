@@ -7,6 +7,27 @@ import { ExternalLink, Github, Play } from 'lucide-react';
 
 const projectsData = [
   {
+  title: "Emotion-Based Music Recommendation System",
+  description:
+    "AI-powered web application that detects a user's facial emotion in real time using a CNN model and MediaPipe, then recommends personalized songs by combining detected emotions with the user's music preferences.",
+  technologies: [
+    "Python",
+    "TensorFlow",
+    "CNN",
+    "MediaPipe",
+    "Streamlit"
+  ],
+  features: [
+    "Real-time facial emotion detection using webcam",
+    "MediaPipe-based face detection and preprocessing",
+    "CNN-based facial emotion classification",
+    "Personalized music recommendations using emotion, liked songs, and disliked songs",
+    "Interactive Streamlit web interface for real-time recommendations"
+  ],
+  githubUrl: "https://github.com/TejaswiRokkam/emotion-based-music",
+  category: "AI Application"
+},
+  {
     title: "SmartNotes: AI Meeting Minutes Generator",
     description:
       "AI-powered web app that transcribes and summarizes meeting audio/video files into structured bullet-point minutes using OpenAI Whisper and Cohere APIs.",
