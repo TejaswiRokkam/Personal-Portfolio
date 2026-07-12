@@ -6,7 +6,7 @@ import { Code, Palette, Zap, Globe } from 'lucide-react';
 const aboutData = {
   title: "About Me",
   description: [
-    "I'm a final-year B.Tech student specializing in Artificial Intelligence and Data Science at Shri Vishnu Engineering College for Women.",
+    "I'm a recent B.Tech graduate in Artificial Intelligence and Data Science from Shri Vishnu Engineering College for Women.",
     "I'm passionate about building AI-powered applications that solve real-world problems. My interests lie in Machine Learning, Deep Learning, and full-stack development. I enjoy learning new tools and contributing to meaningful projects."
   ],
   stats: [
