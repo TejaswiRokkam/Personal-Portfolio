@@ -11,7 +11,7 @@ const educationData = [
     location: "Andhra Pradesh, India",
     period: "2022 - 2026",
     description:
-      "Currently pursuing undergraduate studies focused on Artificial Intelligence, Machine Learning, and Data Science.",
+      "Completed undergraduate studies focused on Artificial Intelligence, Machine Learning, and Data Science with a CGPA of 8.78.",
   },
   {
     degree: "Intermediate (MPC)",
